@@ -8,12 +8,6 @@ body {
   background-color: rgb(20, 20, 20);
 }
 
-link{
-  rel:'shortcuticon';
-  type:'image/x-icon';
-  href:'/Users/linyuanhong/Documents/nanmudesign/src/components/icon/1234.png';
-}
-
 div{
   text-align: center;
 }
