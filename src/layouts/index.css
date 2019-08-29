@@ -5,7 +5,19 @@ html {
 }
 body {
   margin: 0;
+  /* background-size:contain */
+  background: url('../pages/pic/banner1.jpg') no-repeat;
+  background-position-x: center;
+  background-position-y: 10px;
   background-color: rgb(20, 20, 20);
+
+}
+
+.bgc{
+  /* width: 1900px; */
+  height: 100%;
+  background-color: #fff;
+  
 }
 
 div{

@@ -12,9 +12,9 @@ const Header = ({ siteTitle }) => (
       marginBottom: '60px',
     }}
   >
-    <Helmet>
-      {/* <link rel='icon' type="image/png" href='./numlogo2.png' ></link> */}
-    </Helmet>
+       {/* <Helmet>
+      <link rel='icon' type="image/png" href='./numlogo2.png' ></link>
+    </Helmet> */}
     <div
       style={{
         margin: '0 auto',
